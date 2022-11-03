@@ -1,0 +1,60 @@
+
+body{
+    padding-top: 80px;
+}
+
+.navbar ul li a:hover{
+    color: rgb(56, 233, 56);
+}
+.navbar{
+    border-bottom: 2px solid green;;
+}
+.owl-nav{
+    float: right;
+  }
+  .owl-next, .owl-prev {
+  background-color: green !important;
+  color: #fff !important;
+  border-radius: 50%;
+  width: 30px;
+  height: 35px;
+  margin: 10px;
+  }
+.position2{
+    position: absolute;
+    left: 100px;
+    top: 150px;
+  
+  }
+
+  .background{
+    background-color: rgb(56, 233, 56);
+    
+}
+.button2{
+    margin-left: 150px;
+    margin-top: 20px;
+    
+}
+.flex ul{
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+}
+.flex ul li{
+    padding: 10px;
+}
+.flex ul li{
+    padding-left: 10px;
+}
+form{
+    padding: 80px;
+    margin: 50px 300px;
+    border-style: outset;
+    background-color: white;
+}
+.background3{
+    background-image: url(images/banner-new.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
