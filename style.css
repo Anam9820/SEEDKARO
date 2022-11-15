@@ -28,7 +28,7 @@ body{
   }
 
   .background{
-    background-color: rgb(56, 233, 56);
+    background-color: green;
     
 }
 .button2{
@@ -49,7 +49,7 @@ body{
 }
 form{
     padding: 80px;
-    margin: 50px 300px;
+    margin: 50px 400px;
     border-style: outset;
     background-color: white;
 }
